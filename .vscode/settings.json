@@ -16,5 +16,8 @@
     "torizon_app_root": "/home/torizon",
     "tcb.version": "early-access",
     "tcb.packageName": "tcbcitest",
-    "tcb.fleetName": ""
+    "tcb.fleetName": "Dev",
+    "tcb.clientId": "api-v2_b1f0e538_51b9a304-4621-421e-a93b-bf3b062e4ea1",
+    "tcb.clientSecret": "uKuMOBlESep5Vt5AEDnxTexP9Vl5wu74",
+    "tcb.ostreeBranch": "tcbcitest"
 }
