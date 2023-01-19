@@ -18,6 +18,9 @@ input:
 customization:
   # Customization section items.
   splash-screen: splashScreen.png
+  kernel:
+    arguments:
+      - drm.edid_firmware=edid/800x600.bin
 
 output:
   # Output section items (required).
